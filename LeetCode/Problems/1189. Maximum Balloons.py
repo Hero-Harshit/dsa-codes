@@ -19,4 +19,4 @@ class Solution:
             hash_table["l"] // 2,
             hash_table["o"] // 2,
             hash_table["n"]
-        )
+        ) 
