@@ -9,4 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1288-remove-covered-intervals](https://github.com/Hero-Harshit/dsa-codes/tree/master/1288-remove-covered-intervals) |
+## Math
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Hero-Harshit/dsa-codes/tree/master/2413-smallest-even-multiple) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Hero-Harshit/dsa-codes/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
